@@ -1,0 +1,19 @@
+{
+  "name": "XO Challenge Cup | كأس التحدي",
+  "short_name": "XO كأس التحدي",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a1021",
+  "theme_color": "#101629",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
